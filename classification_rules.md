@@ -17,3 +17,15 @@ Product Showcase
 UGC
 Lifestyle
 Other
+
+Format:
+
+Creator POV
+Room Tour
+Before After
+Product Demo
+Lifestyle Moment
+Aesthetic Montage
+Tutorial
+Trend Format
+Unknown
